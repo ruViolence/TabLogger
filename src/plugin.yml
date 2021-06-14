@@ -1,0 +1,5 @@
+name: TabLogger
+main: ru.violence.tablogger.TabLoggerPlugin
+author: ruViolence
+version: 0.1.0
+api-version: 1.13
